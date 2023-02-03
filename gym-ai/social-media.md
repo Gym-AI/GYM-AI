@@ -24,4 +24,12 @@ _Social media has become increasingly important for the success of projects in v
 
 <figure><img src="../.gitbook/assets/twitter (3).png" alt=""><figcaption><p><strong></strong><a href="https://twitter.com/GymAI_"><strong>TWITTER</strong></a><strong></strong></p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/reddit.png" alt=""><figcaption><p><strong></strong><a href="https://www.reddit.com/user/Gym-AI"><strong>REDDIT</strong></a><strong></strong></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/medium.png" alt=""><figcaption><p><strong></strong><a href="https://medium.com/@Gym-AI"><strong>MEDIUM</strong></a><strong></strong></p></figcaption></figure>
+
 </div>

@@ -6,7 +6,7 @@
 * [Social Media](gym-ai/social-media.md)
 * [Security](gym-ai/security.md)
 * [Gym-AI Mobile](gym-ai/gym-ai-mobile.md)
-  * [Gym - Mobile](gym-ai/page-4/README.md)
+  * [Gym-AI Mobile](gym-ai/page-4/README.md)
   * [Terms and Conditions](gym-ai/page-4/terms-and-conditions/README.md)
     * [terms and conditions outline the rules and regulations for the use of GymAI app.](gym-ai/page-4/terms-and-conditions/terms-and-conditions-outline-the-rules-and-regulations-for-the-use-of-gymai-app..md)
     * [Cookies](gym-ai/page-4/terms-and-conditions/cookies.md)
