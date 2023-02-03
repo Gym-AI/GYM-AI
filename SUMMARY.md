@@ -6,7 +6,6 @@
 * [🏋 Social Media](gym-ai/social-media.md)
 * [🏋♀ Security](gym-ai/security.md)
 * [🏋♂ Gym-AI Mobile](gym-ai/gym-ai-mobile.md)
-  * [▪ Gym-AI Mobile](gym-ai/page-4/README.md)
   * [▪ Initial Signup](gym-ai/gym-ai-mobile/initial-signup.md)
   * [▪ Terms and Conditions](gym-ai/page-4/terms-and-conditions/README.md)
     * [▪ Terms and Conditions](gym-ai/gym-ai-mobile/terms-and-conditions/terms-and-conditions.md)
@@ -21,10 +20,13 @@
     * [▪ Disclaimer](gym-ai/page-4/terms-and-conditions/disclaimer.md)
   * [▪ Registration of the personal data](gym-ai/gym-ai-mobile/registration-of-the-personal-data.md)
   * [▪ What's your Goal?](gym-ai/page-4/whats-your-goal.md)
-  * [▪ What do you want to do ?](gym-ai/gym-ai-mobile/what-do-you-want-to-do.md)
-* [Ações futuras](gym-ai/acoes-futuras.md)
-* [Tokenomics](gym-ai/tokenomics/README.md)
-  * [Token Metrics](gym-ai/tokenomics/token-metrics.md)
-  * [Taxes](gym-ai/tokenomics/taxes.md)
-* [Roadmap](gym-ai/roadmap.md)
-* [Team](gym-ai/team.md)
+  * [▪ What do you want to do ?](gym-ai/page-4/create-account.md)
+* [🏋 Token GymAI](gym-ai/tokenomics/README.md)
+  * [▪ Tokenomics](gym-ai/tokenomics/token-metrics.md)
+  * [▪ Token Metrics](gym-ai/tokenomics/taxes.md)
+* [🏋♀ Roadmap](gym-ai/roadmap.md)
+* [🏋♂ Team](gym-ai/team.md)
+
+## 🪙 Fairlaunch Pinksale
+
+* [🪙 Buy $GymAI](https://www.pinksale.finance/?chain=BSC)
