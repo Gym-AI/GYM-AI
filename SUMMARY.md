@@ -2,12 +2,12 @@
 
 ## GYM-AI
 
-* [Overview](README.md)
-* [Social Media](gym-ai/social-media.md)
-* [Security](gym-ai/security.md)
-* [Gym-AI Mobile](gym-ai/gym-ai-mobile.md)
-  * [Gym-AI Mobile](gym-ai/page-4/README.md)
-  * [Terms and Conditions](gym-ai/page-4/terms-and-conditions/README.md)
+* [🏋♂ Overview](README.md)
+* [🏋 Social Media](gym-ai/social-media.md)
+* [🏋♀ Security](gym-ai/security.md)
+* [🏋♂ Gym-AI Mobile](gym-ai/gym-ai-mobile.md)
+  * [▪ Gym-AI Mobile](gym-ai/page-4/README.md)
+  * [▪ Terms and Conditions](gym-ai/page-4/terms-and-conditions/README.md)
     * [▪ Terms and Conditions](gym-ai/gym-ai-mobile/terms-and-conditions/terms-and-conditions.md)
     * [▪ Cookies](gym-ai/page-4/terms-and-conditions/cookies.md)
     * [▪ License Gym-AI](gym-ai/gym-ai-mobile/terms-and-conditions/license-gym-ai.md)
