@@ -9,5 +9,4 @@ coverY: 0
 
 _We emphasize the importance of completing the initial registration, through which we will improve your experience with our app, we will be able to enhance your performance through the data collected. It's important to note that we comply with legal requirements and maintain data security._
 
-<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption><p><em><strong>Fill in your data, where through it we will provide parameters.</strong></em></p></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/registro.jpg" alt=""><figcaption><p><em><strong>Fill in your data, where through it we will provide parameters.</strong></em></p></figcaption></figure>

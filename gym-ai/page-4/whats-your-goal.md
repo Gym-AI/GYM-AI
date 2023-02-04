@@ -17,15 +17,15 @@ coverY: 0
 
 <div>
 
-<figure><img src="../../.gitbook/assets/photo_2023-02-03_13-24-55.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/goal -1.jpg" alt=""><figcaption><p><em><strong>Phase 1</strong></em></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/goal 2.jpg" alt=""><figcaption><p><em><strong>Phase 2</strong></em></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/goal 3.jpg" alt=""><figcaption><p><em><strong>Phase 3</strong></em></p></figcaption></figure>
 
 </div>
 

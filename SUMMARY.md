@@ -21,6 +21,7 @@
   * [▪ Registration of the personal data](gym-ai/gym-ai-mobile/registration-of-the-personal-data.md)
   * [▪ What's your Goal?](gym-ai/page-4/whats-your-goal.md)
   * [▪ What do you want to do ?](gym-ai/page-4/create-account.md)
+  * [▪ Your workout Routine](gym-ai/gym-ai-mobile/your-workout-routine.md)
 * [🏋 Token GymAI](gym-ai/tokenomics/README.md)
   * [▪ Tokenomics](gym-ai/tokenomics/token-metrics.md)
   * [▪ Token Metrics](gym-ai/tokenomics/taxes.md)
