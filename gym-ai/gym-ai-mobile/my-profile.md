@@ -15,7 +15,7 @@ _We highlight the profile, located at the top of the Habit Tracker, which will p
 
  
 
-<figure><img src="../../.gitbook/assets/Profile.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Profile (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

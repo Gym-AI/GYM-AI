@@ -15,4 +15,4 @@ _In this part of the app, you will have a calendar that will show you the day of
 * [x] _Meal Plan;_&#x20;
 * [x] _My Profile._
 
-<figure><img src="../../.gitbook/assets/my habit.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/my habit (1).jpg" alt=""><figcaption></figcaption></figure>
