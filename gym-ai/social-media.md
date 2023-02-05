@@ -19,7 +19,7 @@ _Social media has become increasingly important for the success of projects in v
 
  
 
-<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><em><strong></strong></em><a href="https://t.me/GYM_AI"><em><strong>TELEGRAM</strong><strong> </strong><mark style="color:blue;"><strong>Chat</strong></mark></em></a><em><mark style="color:blue;"><strong></strong></mark></em></p></figcaption></figure>
 
  
 
@@ -32,5 +32,13 @@ _Social media has become increasingly important for the success of projects in v
  
 
 <figure><img src="../.gitbook/assets/medium.png" alt=""><figcaption><p><strong></strong><a href="https://medium.com/@Gym-AI"><strong>MEDIUM</strong></a><strong></strong></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><em><mark style="color:blue;"><strong></strong></mark></em><a href="https://t.me/GYM_AI_Ann"><em><mark style="color:blue;"><strong>TELEGRAM  C</strong></mark></em></a><em><mark style="color:blue;"><strong>hannel</strong></mark></em></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><em><mark style="color:blue;"><strong></strong></mark></em><a href="https://t.me/GYM_AI_CN"><em><mark style="color:blue;"><strong>TELEGRAM</strong></mark></em><br><em><mark style="color:blue;"><strong>Chinese</strong></mark></em></a><em><mark style="color:blue;"><strong></strong></mark></em></p></figcaption></figure>
 
 </div>
