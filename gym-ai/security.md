@@ -13,10 +13,10 @@ Follow our regulations below.
 
 <div>
 
-<figure><img src="../.gitbook/assets/auditoria.png" alt=""><figcaption><p><strong>AUDIT</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/auditoria.png" alt=""><figcaption><p><strong></strong><a href="https://github.com/AnalytixAudit/Solidity/blob/main/20230207_Analytix%20Audit_GYM%20AI_Audit.pdf"><strong>AUDIT</strong></a><strong></strong></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/procurar.png" alt=""><figcaption><p><strong>KYC</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/procurar.png" alt=""><figcaption><p><strong></strong><a href="https://pinksale.notion.site/Gym-AI-KYC-Verification-fffc0e85407b4334973930d1c421f49b"><strong>KYC</strong></a><strong></strong></p></figcaption></figure>
 
 </div>

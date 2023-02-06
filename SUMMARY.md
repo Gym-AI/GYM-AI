@@ -38,4 +38,4 @@
 
 ## 🪙 Fairlaunch Pinksale
 
-* [🪙 Buy $GymAI](https://www.pinksale.finance/?chain=BSC)
+* [🪙 Buy $GymAI](https://www.pinksale.finance/launchpad/0xaC47aEC28C62cf7b454237c51ff9B633f5475442?chain=BSC)
