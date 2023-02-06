@@ -7,7 +7,7 @@ coverY: 0
 
 #### "The importance of social media for projects"
 
-_Social media has become increasingly important for the success of projects in various sectors, including businesses, non-profit organizations, and governments. It allows for broad dissemination of information, reaching a large and diverse audience quickly and efficiently. In addition, social media offers the opportunity for direct interaction with target audiences, gathering suggestions and feedback, further improving the projects. The use of social media can also increase the visibility of the project, attracting new sponsors and partners. In summary, social media is a valuable tool for promoting, engaging and ensuring the success of projects in all sectors._
+_Social media has become increasingly important for the success of projects in various sectors, including businesses, non-profit organizations, and governments. It allows for the broad dissemination of information, reaching a large and diverse audience quickly and efficiently. In addition, social media offers the opportunity for direct interaction with target audiences, gathering suggestions and feedback, further improving the projects. The use of social media can also increase the visibility of the project, attracting new sponsors and partners. In summary, social media is a valuable tool for promoting, engaging, and ensuring the success of projects in all sectors._
 
 <div>
 

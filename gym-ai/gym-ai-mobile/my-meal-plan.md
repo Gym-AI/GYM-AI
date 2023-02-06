@@ -7,7 +7,7 @@ coverY: 0
 
 #### My meal plan
 
-_And finally, in the Meal Planning section, we will provide meal plans based on the initial information provided by the user. We understand that healthy eating is not about eating less, but about balancing the portions and correct timings. Therefore, we divide the day into 5 meals to ensure a balanced diet._
+_And finally, in the Meal Planning section, we will provide meal plans based on the information provided by the user at the beginning. We understand that healthy eating is not just about eating less, but about balancing portions and timing correctly. Therefore, we have divided the day into five meals to ensure a balanced diet._
 
 * [x] _Breakfast;_
 * [x] _Snack;_

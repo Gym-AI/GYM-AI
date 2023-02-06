@@ -5,7 +5,7 @@ coverY: 0
 
 # ▪ Some examples BOT
 
-#### /ROUTINE - Create a weekly routine to get out of the  sedentary lifestyle. I work 8 hours a day, 1 sleep 8 hours, and i have the rest of the day free.
+#### /ROUTINE - Create a weekly routine to break free from a sedentary lifestyle. I work 8 hours a day, sleep for 8 hours, and have the rest of the day free.
 
 <div>
 
