@@ -9,7 +9,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption><p><em><strong>Just click on "CREATE ACCOUNT"</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).jpg" alt=""><figcaption><p><em><strong>Just click on "CREATE ACCOUNT"</strong></em></p></figcaption></figure>
 
  
 
@@ -17,7 +17,7 @@ coverY: 0
 
  
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption><p><em><strong>After registering, start the app with your data</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).jpg" alt=""><figcaption><p><em><strong>After registering, start the app with your data</strong></em></p></figcaption></figure>
 
 </div>
 
