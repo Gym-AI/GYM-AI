@@ -28,6 +28,7 @@
   * [▪ My Workout](gym-ai/gym-ai-mobile/my-workout.md)
   * [▪ My History](gym-ai/gym-ai-mobile/my-history.md)
   * [▪ My meal plan](gym-ai/gym-ai-mobile/my-meal-plan.md)
+  * [▪ Rewards app and Gamification implementation](gym-ai/gym-ai-mobile/rewards-app-and-gamification-implementation.md)
 * [🏋♂ Gym-AI Bot](gym-ai/gym-ai-bot/README.md)
   * [▪ Some examples BOT](gym-ai/gym-ai-bot/some-examples-bot.md)
 * [🏋 Token GymAI](gym-ai/tokenomics/README.md)
